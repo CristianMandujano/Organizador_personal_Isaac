@@ -9,3 +9,4 @@ Pasos de instalación:git clone <URL DEL REPOSITORIO>
 Dependencias:requests y python-dotenv
 Autor:Cristian Isaac De La Cruz Mandujano 
 Estado: El proyecto se encuentra en etapa de preparación inicial y configuración del entorno de desarrollo.
+colaboracion 
