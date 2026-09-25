@@ -4,3 +4,4 @@ Funcionalidades previstas:
 3. Modificar tareas 
 4. Marcar tareas como terminadas 
 5. Registrar notas 
+6. Categorizar las tareas por prioridades.
